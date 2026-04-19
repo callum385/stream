@@ -3,13 +3,13 @@
 	<title>Playlist</title>
 	<trackList>
 		<track>
-			<location>file:///C:/Users/chris/Pictures/Camera%20Roll/WIN_20260215_15_07_02_Pro.mp4</location>
+			<location>video.mp4</location>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 			</extension>
 		</track>
 	</trackList>
-	<extension application="http://www.videolan.org/vlc/playlist/0">
-		<vlc:item tid="0"/>
-	</extension>
+	<extension applicatiod="0"/>
+	</extension>n="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item ti
 </playlist>
